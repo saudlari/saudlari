@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/larissasaud/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:larissa@uoc.edu"><img src="https://img.shields.io/badge/Correo-red?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
-<a href="https://t.me/sendeira"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/Sendeira"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ### Estoy estudiando
 

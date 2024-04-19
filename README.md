@@ -19,8 +19,8 @@
 ### 📫 Puedes contactarme a través de:
 
 <a href="https://www.linkedin.com/in/larissasaud/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:larissa@uoc.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send/?phone=5515988079939&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:larissa@uoc.edu"><img src="https://img.shields.io/badge/Correo-Electrónico-red?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
+<a href="https://t.me/tuusuario"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ### Estoy estudiando
 
@@ -31,8 +31,7 @@
 - **Metaphora Cloud:** Un servidor propio creado utilizando una Raspberry Pi para almacenar y gestionar datos de manera privada y segura.
 - **Pareu de Pareu-me:** Idealicé y coordiné esta aplicación para avisar sobre redadas racistas en Cataluña, buscando proteger a comunidades vulnerables. [Más información](https://f-droid.org/es/packages/org.pareudepararme.pareu_de_pararme_map/).
 - **Guía de Seguridad Digital Feminista:** Autora de una guía enfocada en promover prácticas seguras en línea para mujeres y comunidades marginadas. [Leer más](https://arsgames.net/tag/ciberseguridad/).
+- **Taller de Autodefensa Digital con Donestech:** Colaboración en la organización de talleres de autodefensa digital para mujeres con el colectivo Donestech, enfocados en empoderar a las participantes y brindarles herramientas para proteger su privacidad y seguridad en línea.
 - **Participación en Eventos de Tecnología:** Dinamizadora de nodos en eventos como Hackmeeting España y Hack the Earth en Calafou, fomentando el intercambio de conocimientos y la colaboración en el ámbito tecnológico.
 
 ---
-
-Espero que estos cambios ayuden a mejorar la presentación y a hacerla más visualmente interesante!

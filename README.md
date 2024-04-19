@@ -34,4 +34,10 @@
 - **Guía de Seguridad Digital Feminista:** Autora de una guía enfocada en promover prácticas seguras en línea para mujeres y comunidades marginadas. (https://arsgames.net/tag/ciberseguridad/).
 - **Taller de Autodefensa Digital con Donestech:** Colaboración en la organización de talleres de autodefensa digital para mujeres con el colectivo Donestech, enfocados en empoderar a las participantes y brindarles herramientas para proteger su privacidad y seguridad en línea. (https://donestech.net/)
 - **Participación en Eventos de Tecnología:** Dinamizadora de nodos en eventos como Hackmeeting España y Hack the Earth en Calafou,  fomentando el intercambio de conocimientos y la colaboración en el ámbito tecnológico.
+- **Análisis de Datos y Creación de Infografías Interactivas para SOS Racisme Catalunya:**
+    - **Racismo Vecinal:** [Infogram](https://infogram.com/infografia_racisme_veinal-1h984wo9gqkxd6p)
+    - **Ámbitos del Racismo Manifestado:** [Infogram](https://infogram.com/2023_els-ambits-manifesta-el-racisme-1h0r6rzl18z8w4e)
+    - **Informe SOS Racisme 2023:** [Infogram](https://infogram.com/2023_informe_sosracisme-1hxj48m5ey8x52v)
+- **Manual para Combatir Fake News y Posverdades:** [Academia.edu](https://www.academia.edu/38569729/Manual_para_combatir_fakenews_y_posverdades)
+
 

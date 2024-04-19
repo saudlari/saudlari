@@ -31,7 +31,7 @@
 
 - **Metaphora Cloud:** Un servidor propio creado utilizando una Raspberry Pi para almacenar y gestionar datos de manera privada y segura.
 - **Pareu de Pareu-me:** Idealicé y coordiné esta aplicación para avisar sobre redadas racistas en Cataluña, buscando proteger a comunidades vulnerables.(https://f-droid.org/es/packages/org.pareudepararme.pareu_de_pararme_map/).
-- **Guía de Seguridad Digital Feminista:** Autora de una guía enfocada en promover prácticas seguras en línea para mujeres y comunidades marginadas. (https://arsgames.net/tag/ciberseguridad/).
+- **Guía de Seguridad Digital Feminista:** Autora de una guía enfocada en promover prácticas seguras en línea para mujeres y discidencias. (https://arsgames.net/tag/ciberseguridad/).
 - **Taller de Autodefensa Digital con Donestech:** Colaboración en la organización de talleres de autodefensa digital para mujeres con el colectivo Donestech, enfocados en empoderar a las participantes y brindarles herramientas para proteger su privacidad y seguridad en línea. (https://donestech.net/)
 - **Participación en Eventos de Tecnología:** Dinamizadora de nodos en eventos como Hackmeeting España y Hack the Earth en Calafou,  fomentando el intercambio de conocimientos y la colaboración en el ámbito tecnológico.
 - **Análisis de Datos y Creación de Infografías Interactivas para SOS Racisme Catalunya:**

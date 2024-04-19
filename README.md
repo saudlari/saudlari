@@ -2,8 +2,7 @@
 
 <img align="right" width="200" src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif"/>
 
-### Aquí comparto algunos de mis proyectos personales y colaborativos, 
-además de los desarrollados durante mi formación como desarrolladora.
+### Aquí comparto algunos de mis proyectos personales y colaborativos, además de los desarrollados durante mi formación como desarrolladora.
 
 - 📘 Estoy estudiando Desarrollo Front-End y planeo terminar mi formación pronto.
 - 🎖️ He completado un Máster en Comunicación Digital, Datos y Nuevas Narrativas en la UOC.
